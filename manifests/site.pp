@@ -13,4 +13,3 @@ node default {
   node /^db/ {
     include role::db_server
   }
-}
